@@ -1,5 +1,12 @@
 # SmartInternz_AbloneAgePrediction
 
+## Contributors
+1. Ishaan Pare
+2. Saaketha krishna
+3. Jason Misquitta
+4. Athish M
+
+
 ## Starting the application
 
 1. clone the repository

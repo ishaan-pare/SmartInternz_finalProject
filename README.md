@@ -6,8 +6,16 @@
 3. Jason Misquitta
 4. Athish M
 
-## Demonstration video
+## A. Assignment (All 3)
+Inside working directory "Assignment" folder.
 
+## B. Project File
+Inside Training directory .ipynb exist which is jupyter notbook and Inside Flask application html/css file exist.
+
+## C. Project Report
+Inside working directory "Report" folder.
+
+## D. Demonstration video
 https://youtu.be/Z4MB84OILKg
 
 
